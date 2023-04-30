@@ -10,7 +10,7 @@ python, fastapi,monogo, motor,selenuim, celery
 - motor :to connect mongo to python 
 - celery : to do scrap task in bakgroung and schedule time to scrape in 
 - selenuim  : because wego is complicated website because it use shadow DOM to hide DOM content and need a lot of clicks  😅 to change views whiles scraping 
-<br/>
+
 ### sample images
 <img src="./images/1.png"  width="45%" height="10%" > <img src="./images/2.png"  width="45%" height="10%" >
 <br/>
